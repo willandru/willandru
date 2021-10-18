@@ -3,14 +3,14 @@
 - 👀 I’m interested in Artificial Intelligence 
 - & Biomedical Sciences- im bio engineer &
 -  data scientist (not yet)
-- 🌱 I’m currently learning OpenCV, python, C++, 
-- MATLAB, Machine Learning, Data Mining, 
-- Front-end, MATHS🐧🐧🐧
+- 🌱 I’m currently learning Java, Maple, LaTex, Matlab, CISCO CCNA, GameDevelopment, PROBABILITY<3,FLUIDS&THERMODINAMICS, MATHS🐧🐧🐧, JavaScript
 - 💞️ I’m looking to collaborate on SpaceX 
 - 📫 How to reach me ... ...YOU CAN NOT )
+
+
 🐧🐧🐧🐧🐧🐧.............🐧🐧🐧🐧🐧🐧🐧
-I LOVE LINUX 🇨🇴🇨🇴
-LINUX
+I LOVE KALI LINUX 🇨🇴🇨🇴
+LINUX KALILINUX
 🐧🐧🐧🐧🐧🐧.............🐧🐧🐧🐧🐧🐧🐧
 MATHSMATHSMATHSMATHSMATHSMATHSMATHSMATHS
 LINUXLINUXLINUXLINUXLINUXLINUXLINUXLINUX
