@@ -1,9 +1,10 @@
-- 🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧
+- 🐧LINUX🐧🐧🐧🐧🐧LINUX🐧🐧🐧🐧🐧🐧LINUX🐧🐧🐧🐧🐧🐧🐧
 - 👋 Hi, I’m @willandru🇨🇴🇨🇴
 - 👀 I’m interested in Artificial Intelligence 
 - & Biomedical Sciences- im bio engineer &
 -  data scientist (not yet)
-- 🌱 I’m currently learning Java, Maple, LaTex, Matlab, CISCO CCNA, GameDevelopment, PROBABILITY<3,FLUIDS&THERMODINAMICS, MATHS🐧🐧🐧, JavaScript
+- 🌱 I’m currently learning Java, Maple, LaTex, Matlab, CISCO CCNA, GameDevelopment, PROBABILITY<3,FLUIDS&THERMODINAMICS, MATHS🐧🐧🐧.
+-  JavaScript
 - 💞️ I’m looking to collaborate on SpaceX 
 - 📫 How to reach me ... ...YOU CAN NOT )
 
