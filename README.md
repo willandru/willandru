@@ -8,6 +8,12 @@
 - 💞️ I’m looking to collaborate on SpaceX 
 - 📫 How to reach me ... ...YOU CAN NOT )
 
+I'm currently working with a team on these proyects:
+    1. Speech Recognition for robotic atomations using Deep Learning.
+
+I'm currently working alone on these proyects:
+    1. Producing recombinant Spidroin for materials applications.
+
 
 🐧🐧🐧🐧🐧🐧.............🐧🐧🐧🐧🐧🐧🐧
 I LOVE KALI LINUX 🇨🇴🇨🇴
