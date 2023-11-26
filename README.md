@@ -4,7 +4,7 @@
 - I'm a Bioengineer and Data Scientist, looking for a degree in Electronic Engineering, Networking and Telecommunication Engineering, and Medicine. I am also pursuing a Master's in AI, Digital Electronics or Biomedical Engineering. Those are my aspirations in life. At the end of my life i want to be a BioHacker to asses positevly in medical issues and an Systems Hacker as i love cybersecurity.
 - I'm a Scientist.
 - I'm an Engineer.
-- Currently, I'm working on an automated lens system using Electromyographic Signals to provide biofeedback to the system for correcting Presbyopia
+- Currently, I'm working on an automated lens system using Electromyographic Signals to provide biofeedback to the system for correcting Presbyopia (see: ASTHENOPIA, Optotune liquid lenses, gtec.at )
 - 🌱 I’m currently learning ROS, SpeechREcognition, MarkovModels, Bioinformatics, Biology Science, LINEAR REGRESSION, Analogic Circuits, MATHS🐧🐧🐧, Digital Circuits, FPGA, Microcontrollers, Rasberry Pi, Arduinos adn Microchips.
 - I woudl like to learn: JavaScript, PHP, TRANSFORMERS, CNN, RNN, GANGs, HMM, Gaussian Mixtures, Deep Learning, FPGA designs
 - 💞️ I’m looking to collaborate on SpaceX 
