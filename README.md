@@ -6,8 +6,7 @@
 - I'm an Engineer.
 - Currently, I'm working on an automated lens system using Electromyographic Signals to provide biofeedback to the system for correcting Presbyopia (see: ASTHENOPIA, Optotune liquid lenses, gtec.at )
 - 🌱 I’m currently learning ROS, SpeechREcognition, MarkovModels, Bioinformatics, Biology Science, LINEAR REGRESSION, Analogic Circuits, MATHS🐧🐧🐧, Digital Circuits, FPGA, Microcontrollers, Rasberry Pi, Arduinos adn Microchips.
-- I woudl like to learn: JavaScript, PHP, TRANSFORMERS, CNN, RNN, GANGs, HMM, Gaussian Mixtures, Deep Learning, FPGA designs
-- 💞️ I’m looking to collaborate on SpaceX 
+- I woudl like to learn:  PHP, TRANSFORMERS, CNN, RNN, GANGs, HMM, Gaussian Mixtures, Deep Learning, FPGA designs
 - 📫 How to reach me ... ...YOU CAN NOT )
 
 I'm currently working with a team on these proyects:
