@@ -7,7 +7,7 @@
 - Currently, I'm working on an automated lens system using Electromyographic Signals (EMG) to provide biofeedback to the system for correcting Presbyopia (see: ASTHENOPIA, Optotune liquid lenses, gtec.at )
 - 🌱 I was learning ROS, SpeechREcognition, MarkovModels, Bioinformatics, Biology Science, LINEAR REGRESSION, Analogic Circuits, MATHS🐧🐧🐧, Digital Circuits, FPGA, Microcontrollers, Rasberry Pi, Arduinos adn Microchips.
 - I woudl like to learn:  PHP, TRANSFORMERS, CNN, RNN, GANGs, HMM, Gaussian Mixtures, Deep Learning, FPGA designs
-- 📫 How to reach me ... ...YOU CAN NOT )
+
 
 I'm currently working just myself on these proyects:
     1. Speech Recognition for robotic atomations using Deep Learning. 
