@@ -3,10 +3,13 @@
 - I'm a Bioengineer and Data Scientist, looking for learning all about Electronic Engineering, Networking and Telecommunication Engineering, Medicine, Biology, Maths, Phisics, Administration and Entrepreneurships. I am also pursuing a Master's in AI, DataScience, Digital Electronics , Molecular Biology or Biomedical Engineering.  I like cybersecurity.
 - I'm a Scientist.
 - I'm an Engineer.
-- Currently, I'm working on a case-control estudy of congenit anomalies, doing data mining, supervised and unsupersied process.
+ - I just finished a case-control estudy of congenit anomalies in Aemrica Latina (ECLAMC), doing data mining, supervised and unsupersied process, giving model explenations: Regression Log model, Generalized Additive Model, Neural Additive Model, Random Forest, XGBoost, Autoencoder. I also used SHAP to give interpretability to some models..
 - 
 - I woudl like to learn:  PHP, TRANSFORMERS, CNN, RNN, GANGs, HMM, Gaussian Mixtures, Deep Learning, FPGA designs, ROS2 ,statistics, machine learning.
 
+- I am lerarning OPENGL and C++ by building  Games
+- Currently, I am working on a Street Fight Game
+- I have just started some projects about a ChessBoard game, and a Platform Game... They are still in process 
 
     - Create an algorithm for detecting vowels >> Use it to segment audio data by detecting silent moments and vowels, createa huge database of syllabes >> Create Language model for making Speech Recognition.
 
