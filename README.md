@@ -13,7 +13,7 @@
 
     - Create an algorithm for detecting vowels >> Use it to segment audio data by detecting silent moments and vowels, createa huge database of syllabes >> Create Language model for making Speech Recognition.
 
-    Building a Mini Dron
+    Building a CHESS VIDEOGAME ----> CROWNLYN
 
   DEEP LEARNING ||  DEEP LEARNING 
 
